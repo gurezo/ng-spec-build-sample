@@ -2,7 +2,6 @@
   "extends": "./tsconfig.json",
   "compilerOptions": {
     "outDir": "./spec-build",
-    "traceResolution": true,
     "types": [
       "jasmine",
       "node"
