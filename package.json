@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build:spec": "tsc --project tsconfig.spec.json --outDir ./dist-spec",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
